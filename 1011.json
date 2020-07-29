@@ -1,0 +1,6 @@
+{
+  "airflow" : "yes",
+  "redshift" : "no",
+  "rds" : "yes",
+  "flywheel" : "no"
+} 
